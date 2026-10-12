@@ -1,12 +1,1 @@
-.venv/
-__pycache__/
-.ipynb_checkpoints/
-data/
-LEARNING_GUIDE.md
-LINKEDIN_POST.md
-LinkedIn_post*.txt
-LinkedIn_Post*.docx
-build_linkedin_post_docx.py
-scrub_public_tone.py
-build_notebook.py
-REMOVE_*FROM_GITHUB*.txt
+
