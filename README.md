@@ -71,9 +71,8 @@ The notebook downloads the data automatically. A full run takes about 15 minutes
 ## Project structure
 ```
 secom-yield-project/
-├── notebooks/secom_yield_analysis.ipynb   # full analysis with explanations
-├── build_notebook.py                      # source for the notebook
-├── figures/                               # exported charts
-├── data/                                  # downloaded automatically (git-ignored)
+├── notebooks/secom_yield_analysis.ipynb
+├── figures/
+├── data/                  # downloaded when you run the notebook (git-ignored)
 └── requirements.txt
 ```
